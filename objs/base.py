@@ -1,0 +1,2 @@
+class BaseObj:
+    pass
